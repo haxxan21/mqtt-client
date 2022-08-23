@@ -1,6 +1,6 @@
 {
-    "name": "php-mqtt/client",
-    "description": "An MQTT client written in and for PHP.",
+    "name": "haxxan21/mqtt-client",
+    "description": "An MQTT client written in and for PHP. Orignal authors Marvin Mall at marvin-mall@msn.com",
     "type": "library",
     "keywords": [
         "mqtt",
@@ -11,8 +11,8 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Marvin Mall",
-            "email": "marvin-mall@msn.com",
+            "name": "Tayyeb Hassan",
+            "email": "malikhassan053@gmail.com",
             "role": "developer"
         }
     ],
